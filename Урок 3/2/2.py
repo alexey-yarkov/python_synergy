@@ -1,0 +1,7 @@
+print('Введите этапы развития человека')
+s1 = input('1. ')
+s2 = input('2. ')
+s3 = input('3. ')
+s4 = input('4. ')
+s5 = input('5. ')
+print(s1, s2, s3, s4, s5, sep='=>')
